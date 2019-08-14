@@ -1,9 +1,9 @@
-# SheetReader
+# ScoreReader
 
 
 ## About
 
-SheetReader is an educational project in Python.
+ScoreReader is an educational project in Python.
 
 The objective is to be able to play a music score with python and convert it into a MIDI file.
 
